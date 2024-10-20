@@ -16,7 +16,8 @@
 
 <h3>담당역할</h3><br>
 - 공지사항/자유게시판 제작<br><br>
-- 댓글/대댓글<br><br>
+- 댓글/대댓글<br>
+
 ![image](https://github.com/user-attachments/assets/a02566ee-de2c-4b1a-ac23-8fed5c20e50f)
 
 
