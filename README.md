@@ -12,7 +12,7 @@
 -	필요한 기술들을 적용하여 기술의 이해도 숙련도 향상<br>
 
 <h3>프로젝트 상세내용</h3><br>
-[종합예약 웹페이지 서비스.pptx](https://github.com/user-attachments/files/17450543/default.pptx)
+[종합예약 웹페이지 서비스.pptx]<br> https://github.com/user-attachments/files/17450543/default.pptx
 
 담당 역할
 -	공지사항/자유게시판 제작<br><br>
